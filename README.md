@@ -1,5 +1,6 @@
 # datasetgenerator
-Phyton script to create a dataset with phyton using ChatGPT to then create a dashboard project in tableau.
+
+Click on datacreator.py link above to view Phyton script used to create a dataset using code in phyton via ChatGPT, to then create a dashboard project in tableau.
 
 Prompt:
 Chat-GPT Prompts
